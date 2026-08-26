@@ -1,0 +1,31 @@
+# Web Framework & UI
+streamlit>=1.38.0
+
+# Audio Processing & Transcription
+openai-whisper>=20231117
+yt-dlp>=2024.8.6
+pydub>=0.25.1
+torch>=2.2.0
+
+# LangChain Core & Ecosystem
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+
+# LLM Provider (Mistral AI)
+mistralai>=1.0.0
+langchain-mistralai>=0.2.0
+
+# Embeddings & Vector Store (RAG)
+chromadb>=0.5.0
+langchain-chroma>=0.1.4
+langchain-huggingface>=0.1.0
+sentence-transformers>=3.0.0
+
+# Export & File Generation
+reportlab>=4.2.0
+fpdf2>=2.7.9
+
+# Utilities & Configuration
+python-dotenv>=1.0.1
+pydantic>=2.9.0
