@@ -1,10 +1,9 @@
 import os
-import static_ffmpeg
 from pydub import AudioSegment
 import yt_dlp
 
 # Automatically downloads/adds ffmpeg and ffprobe to PATH for this process
-static_ffmpeg.add_paths()
+
 
 DOWNLOAD_DIR = "downloads"
 os.makedirs(DOWNLOAD_DIR, exist_ok=True)

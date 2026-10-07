@@ -27,7 +27,7 @@ sentence-transformers
 # Export & File Generation
 reportlab
 fpdf2
-static-ffmpeg
+
 pyaudioop
 
 # Utilities & Configuration
