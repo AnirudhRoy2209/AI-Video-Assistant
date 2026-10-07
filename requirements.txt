@@ -28,6 +28,7 @@ sentence-transformers
 reportlab
 fpdf2
 static-ffmpeg
+pyaudioop
 
 # Utilities & Configuration
 python-dotenv
