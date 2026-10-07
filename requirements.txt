@@ -1,37 +1,34 @@
-# Web Framework & UI
-streamlit
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+torchaudio
 
 # Audio Processing & Transcription
 openai-whisper
 yt-dlp
 pydub
---extra-index-url https://download.pytorch.org/whl/cpu
-torch
-torchvision
-torchaudio
+
+# Web Framework & UI
+streamlit
 
 # LangChain Core & Ecosystem
 langchain
 langchain-core
 langchain-community
 
-# LLM Provider (Mistral AI)
+# LLM Provider
 mistralai
 langchain-mistralai
 
-# Embeddings & Vector Store (RAG)
+# Embeddings & Vector Store
 chromadb
 langchain-chroma
 langchain-huggingface
 sentence-transformers
 
-# Export & File Generation
+# Export & Utilities
 reportlab
 fpdf2
-
-pyaudioop
-
-# Utilities & Configuration
 python-dotenv
 pydantic
 requests
